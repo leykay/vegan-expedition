@@ -1,0 +1,22 @@
+html{
+    background-color: hotpink;
+    border-block: green;
+}
+
+#overnightOats{
+    color: green;
+}
+
+li{
+    font-weight: bold;
+    color: blue;
+}
+
+.my-links{
+    color: lightcoral;
+    cursor: pointer;
+}
+
+.my-links{
+    color: purple;
+}
