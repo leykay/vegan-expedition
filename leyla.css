@@ -9,7 +9,7 @@ html{
 
 li{
     font-weight: bold;
-    color: blue;
+    color: purple;
 }
 
 .my-links{
@@ -19,4 +19,7 @@ li{
 
 .my-links{
     color: purple;
+}
+html {
+    body
 }
