@@ -1,39 +1,58 @@
+/*
 html{
-    background-color: hotpink;
-    border-block: green;
+    background-color: black;
+}
+*/
+.header{
+    background-color: black;
+    font-display: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+.href{
+    background-color: black;
+    color:white;
+}
+
+/*
 #overnightOats{
     color: green;
 }
-
+title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-display: green;
+    background: green;
+}
 li{
     font-weight: bold;
-    color: purple;
+    font-display: white;
+    font-family: arial;
+    background:black;
 }
-
-.my-links{
-    color: lightcoral;
-    cursor: pointer;
-}
-
-.my-links{
-    color: purple;
+hi{
+    background: black;
 }
 
 .no-underline{
     text-decoration: none;
 }
 /*hello*/
+/*
 
 .header {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background:black;
 }
 
 .header li {
     list-style-type: none;
     display: flex;
 }
-
+*/
 
